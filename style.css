@@ -16,7 +16,7 @@ body {
     transform: rotate(-45deg);
     background: white;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: 0 0 70px white;
 }
 
